@@ -9,7 +9,7 @@ setup(
     description='A Python library to return hardcoded  examples for 3D viewer or educational tools',
     author='Chibi',
     author_email='chibi.editzz@gmail.com',
-    url='https://github.com/yourusername/3dmviewer',
+    url='https://github.com/AJAY-HaCkR/3dmviewer/',
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: OS Independent',
